@@ -14,7 +14,6 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![R](https://img.icons8.com/ios-filled/50/000000/r.png)
 ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
-![PySpark](https://img.icons8.com/fluency/48/000000/apache-spark.png)
 ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
@@ -22,7 +21,6 @@
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![GCP](https://img.icons8.com/color/48/000000/google-cloud.png)
-![Databricks](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-databricks-an-operational-database-company-logo-with-a-heavy-focus-on-cloud-logo-color-tal-revivo.png)
 
 ### Himanish Prakash's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanishprakash&show_icons=true)
