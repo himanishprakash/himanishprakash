@@ -27,8 +27,6 @@
 ![GCP](https://img.icons8.com/color/48/000000/google-cloud.png)
 
 
-### Himanish Prakash's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanishprakash&show_icons=true)
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanishprakash)
